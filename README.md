@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Homa BahramParvar</h1>
 <h3 align="center">A passionate UiUx Designer and frontend developer from Iran</h3>
 
+<p>UI/UX Designer specializing in crafting intuitive and visually compelling digital experiences. With a strong foundation in design principles, I have a passion for creating products that users love. I have hands-on experience in front-end development, including  HTML, CSS, JavaScript and React.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humayb&label=Profile%20views&color=0e75b6&style=flat" alt="humayb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=humayb" alt="humayb" /></a> </p>
